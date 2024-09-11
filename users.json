@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "first_name": "Hamel",
+    "last_name": "Polglaze",
+    "email": "hpolglaze0@businessweek.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Janette",
+    "last_name": "Ramplee",
+    "email": "jramplee1@hao123.com",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Veronike",
+    "last_name": "Enriquez",
+    "email": "venriquez2@webmd.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Luelle",
+    "last_name": "Hansberry",
+    "email": "lhansberry3@blogspot.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Sharai",
+    "last_name": "Stollsteiner",
+    "email": "sstollsteiner4@nydailynews.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Aylmer",
+    "last_name": "Cowie",
+    "email": "acowie5@hubpages.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Moe",
+    "last_name": "Dillaway",
+    "email": "mdillaway6@blog.com",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Dallas",
+    "last_name": "Erdis",
+    "email": "derdis7@networkadvertising.org",
+    "gender": "Genderfluid"
+  },
+  {
+    "id": 9,
+    "first_name": "Koral",
+    "last_name": "Arundel",
+    "email": "karundel8@gmpg.org",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Alisander",
+    "last_name": "Klimkiewich",
+    "email": "aklimkiewich9@google.com",
+    "gender": "Male"
+  },
+  {
+    "id": 11,
+    "first_name": "Janette",
+    "last_name": "Ramplee",
+    "email": "jramplee1@hao123.com",
+    "gender": "Female"
+  },
+  {
+    "id": 12,
+    "first_name": "Janette",
+    "last_name": "Ramplee",
+    "email": "jramplee1@hao123.com",
+    "gender": "Female"
+  },
+  {
+    "id": 13,
+    "first_name": "Janette",
+    "last_name": "Ramplee",
+    "email": "jramplee1@hao123.com",
+    "gender": "Female"
+  }
+]
